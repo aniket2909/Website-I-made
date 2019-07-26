@@ -1,0 +1,462 @@
+#heading{
+	font-size: 500%;  text-align: center;
+	text-decoration: underline;
+}
+
+
+#hindi{
+	position:absolute;
+	text-align:center;
+	display:inline-block;
+	width:100px;
+	height:30px;
+	padding:8px;
+	background-color:rgb(0, 139, 71);
+	margin-left: 80%;
+	color:white;
+	font-size: 25px;
+	font-weight: bold;
+	margin-top: -110px;
+}
+
+
+#hindi_font{
+	text-decoration: none;
+	color:white;
+}
+
+
+
+#all1{background-color:Tomato;
+}
+
+
+
+
+#all2{margin-left: 20px;}
+
+
+.allc1{
+	display:inline-block;
+	border-radius: 18px 18px 0px 0px;
+	text-align:center;
+    padding:40px;
+	padding-bottom:15px;
+	padding-top:15px;
+	font-size:25px;
+	font-weight: bold;
+}
+
+.allc2{
+	text-decoration: none;
+	color:black;
+}
+
+#selected{
+	background-color:white;
+}
+
+.allc21{width:105px;}
+.allc22{width:120px;}
+.allc23{width:120px;}
+.allc24{width:140px;}
+.allc25{width:155px;}
+
+
+
+
+
+
+
+
+
+
+
+#table2 {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+  margin-left:  10%;
+  font-size: 15px;
+  margin-bottom: 100px;
+}
+
+#table2 td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 10px;
+  padding-right: 0px;
+  padding-left: 5px
+}
+
+#table2 tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+
+
+
+
+#about11{
+	font-size:40px;
+	margin-left:600px;
+	width:800px;
+}
+
+#about12{
+	display:block;
+	width:500px;
+	position:absolute;
+	margin-top:35px;
+	margin-left: 40px;
+}
+
+
+
+#s31{position: relative;
+	left: 110px;
+	padding-top: 10px
+}
+
+
+.class31{
+	display:inline-block;
+	height:20px;
+	color:black;
+	font-size: 22px;
+	padding:10px;
+	margin-left: 50px;
+	font-weight: normal;
+
+}
+
+#line31{margin-right: 8%;margin-left: 8%;height: 1px;background-color:black;}
+
+
+#bhajan1{margin-left: 530px;font-family: Sitka Banner;font-size: 80px;padding-top:70px;}
+#bhajan2{margin-left: 420px;font-family: Sitka Banner;font-size: 80px;padding-top:70px;}
+#bhajan3{margin-left: 550px;font-family: Sitka Banner;font-size: 80px;padding-top:70px;}
+#bhajan4{margin-left: 450px;font-family: Sitka Banner;font-size: 80px;padding-top:70px;}
+#bhajan5{margin-left: 580px;font-family: Sitka Banner;font-size: 80px;padding-top:70px;}
+
+
+.center{
+	display:block;
+	width:400px;
+	margin-left: 570px;
+	margin-bottom: 300px;
+}
+
+.img3{
+	display: inline-block;
+	width:400px;
+	padding-right:30px;
+	padding-left: 30px
+
+}
+
+
+#table4 {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+  margin-left:  10%;
+  font-size: 15px;
+}
+
+#table4 td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 10px;
+  padding-right: 0px;
+  padding-left: 5px
+}
+
+#table4 tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+
+
+
+
+
+.class52{
+	display: block;
+	width: 400px;
+	position: absolute;
+	left:100px;
+	top:450px;
+}
+
+.class54{
+	display: block;
+	width: 800px;
+	position: absolute;
+	left:600px;
+	top:600px;
+}
+
+.class55{
+	display: block;
+	width: 600px;
+	position: absolute;
+	left:100px;
+	top:1200px;
+}
+
+.class56{
+	display: block;
+	width: 600px;
+	position: absolute;
+	left:800px;
+	top:1100px;
+}
+
+
+.class57{
+	display: block;
+	width: 650px;
+	position: absolute;
+	left:100px;
+	top:2300px;
+}
+
+.class58{
+	display: block;
+	width: 550px;
+	position: absolute;
+	left:800px;
+	top:2300px;
+}
+
+
+.video1{
+	width:400px;
+	height: 600px;
+	position: absolute;
+	left: 200px;
+	top: 3300px;
+}
+
+.video2{
+	width:400px;
+	height: 600px;
+	position: absolute;
+	left: 900px;
+	top: 3300px;
+}
+
+.class51{
+	display: block;
+	width: 550px;
+	position: absolute;
+	left:500px;
+	top:4200px;
+}
+
+#div51{margin-top: 3700px;}
+#p51{text-align: center;font-family: Sitka Banner;font-size: 35px;}
+#div52{margin-top: 500px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 1000px) {
+
+	#heading{
+	font-size: 250%;  text-align: center;
+	margin-bottom: 20px;
+    }
+
+    #hindi{position: relative; margin-bottom: -35px;
+    	width:100px;
+	height:28px;
+	font-size: 25px;
+    }
+
+
+	#all2{margin-left: -20px;
+		padding-bottom: 15px;
+	}
+
+	.allc1{
+	    margin-top:5px;
+		display:inline-block;
+		padding:5px;
+		font-size: 26px;
+		border-radius: 10px 10px 10px 10px;
+		text-align:center;
+	 
+	}
+
+
+	.allc21{width:15.92%;
+		margin-left: 4.6%;
+	}
+	.allc22{width:20.45%;
+		margin-left: 11.37%;
+	}
+	.allc23{width:18.18%;
+		margin-left: 10.84%;
+	}
+	.allc24{width:22.73%;
+		margin-left: 13.63%;
+		margin-top: 6px;
+	}
+	.allc25{width:29.54%;
+		margin-left: 11.36%;
+		margin-top: 7px;
+	}
+
+
+
+
+
+#table2{
+	width:100%;
+	margin-left: 0px;
+}
+
+#table2 td, th{text-align: left;}
+#table2col1 {margin-left: 1000px;}
+
+
+
+
+
+
+
+#s31{left: 0px;margin-left: 0%;margin-top: -10px;}
+.class31{
+	height:15px;
+	font-size: 18px;
+	padding:0px;
+	margin-left: 2.27%;
+}
+.class321{margin-left: 2%;width: 23.5%;}
+.class322{margin-left: 8.40%;width: 39.9%;}
+.class323{margin-left: 3.7%; width: 20.45%;}
+.class324{margin-left: 14.63%; margin-top: 10px;width: 31.82%;}
+.class325{margin-left: 16%; margin-top: 10px;width: 18.2%;}
+
+#line31{margin-left: 2%;margin-right:2%;margin-top: 0px;height: .1px;}
+
+#bhajan1{display: block;width:80%;text-align: center;margin-left: 10%;
+	  font-size: 40px;padding-top:70px;}
+#bhajan2{display: block;width:80%;text-align: center;margin-left: 10%;
+	  font-size: 40px;padding-top:70px;}
+#bhajan3{display: block;width:80%;text-align: center;margin-left: 10%;
+	  font-size: 40px;padding-top:70px;}
+#bhajan4{display: block;width:80%;text-align: center;margin-left: 10%;
+	  font-size: 40px;padding-top:70px;}
+#bhajan5{display: block;width:80%;text-align: center;margin-left: 10%;
+	  font-size: 40px;padding-top:70px;}
+
+
+
+
+.center{
+	width:80%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.img3{
+	display: block;
+	width:80%;
+	margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    padding: 0px;
+}
+
+
+
+
+
+
+
+
+#table4{
+	width:100%;
+	margin-left: 0px;
+}
+
+#table4 td, th{text-align: left;}
+
+#about11{
+	font-size:18px;
+	margin-left:10%;
+	width:80%;
+}
+
+#about12{
+
+    display: block;
+	position: static;
+	width:80%;
+	margin-left: auto;
+    margin-right: auto;
+	
+}
+
+
+
+.class52,.class54,.class55,.class56,
+.class57,.class58,.video1,.video2,.class51{
+	display: block;
+	position: static;
+	width:95%;
+	margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+	
+}
+
+
+#div51{margin-top: 0px;}
+#p51{text-align: center;font-family: Sitka Banner;font-size: 32px;}
+#div52{margin-top: 0px;}
+
+
+
+
+	
+}
